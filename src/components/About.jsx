@@ -14,12 +14,12 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-10">
-          Hello! My name is Hasan and I enjoy creating things that live on the
-          Internet. My interest in web development started back in 2020 when I
-          decided to change to the field gives that gives me freedom and it's
-          fun to work in — turns out this is exactly what software development
-          is? Fast-forward to today, and I’ve had the privilege of working on
-          different projects and collaborate with different people.
+        Hello! My name is Hasan, and I’m passionate about creating things that live on the internet.
+        My journey into web development began in 2020 when I decided to switch to a field that offers both freedom and fun.
+        It turns out, software development is exactly that!
+        Fast forward to today, and I’ve had the privilege of working on various projects and collaborating with diverse teams.
+        My current focus is on building accessible, inclusive products and digital experiences, 
+        crafting beautiful designs, and writing clean, human-centered code.
         </p>
 
         <br />
